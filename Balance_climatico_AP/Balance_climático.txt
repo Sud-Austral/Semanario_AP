@@ -1,0 +1,9 @@
+Colección: ee.ImageCollection("IDAHO_EPSCOR/TERRACLIMATE")
+
+tmmn	Minimum temperature	-770	387	°C	0.1
+tmmx	Maximum temperature	-670	576	°C	0.1
+aet	Actual evapotranspiration, derived using a one-dimensional soil water balance model	0	3140	mm	0.1
+def	Climate water deficit, derived using a one-dimensional soil water balance model	0	4548	mm	0.1
+pdsi	Palmer Drought Severity Index	-4317	3418		0.01
+soil	Soil moisture, derived using a one-dimensional soil water balance model	0	8882	mm	0.1
+pr	Precipitation accumulation	0	7245	mm	0
